@@ -20,8 +20,10 @@ Due to security best practices, the API token is not committed to this repositor
 Step 2: Execute Tests
 Run the following commands in your terminal:
 
-git clone <your-repo-link>
+git clone https://github.com/anurakanr-prog/ata-it-api-automation
+
 cd ata-it-api-automation
+
 mvn clean test
 
 🏗️ Architectural Decisions
